@@ -29,34 +29,13 @@ Voce pode me encontrar:
 
 ## 🔧 Technologies & Tools
 
-|     | Stacks |
-| --- | --- |
-|**Highlighter**|  <img height='30px'  src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /> 
-|
-|**Highlighter**|  <img height='30px'  src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim"/> 
-|
-
-
-<table >
-<thead>
-	<tr>
-		<th>Header 1</th>
-		<th>Header 2</th>
-
-	</tr>
-</thead>
-<tbody>
-	<tr>
-		<td>Column 1</td>
-		<td>Column 2</td>
-	</tr>
-	<tr>
-		<td text-align="center" >Custom Table Content</td>
-		<td>
-      <p align="center">
-          <img height='40px'  src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-      </p>
-    </td>
-	</tr>
-</tbody>
-</table>
+|     | Stacks | Text|
+| --- | --- | --- |
+|**Highlighter**|  <img height='35px' src="https://skillicons.dev/icons?i=html,md&theme=light"  alt="HTLM, Markdown"/>| HTML, Markdown
+|**Styles**|  <img height='35px'  src="https://skillicons.dev/icons?i=css,sass,tailwind,styledcomponents"/>|
+|**languages**|  <img height='35px'  src="https://skillicons.dev/icons?i=js,ts,python"/>|
+|**Frameworks/Libraries**|  <img height='35px'  src="https://skillicons.dev/icons?i=react,redux,nodejs,express,flask,django,"/>|
+|**SQL/NOSQL**|  <img height='35px'  src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite"/>|
+|**Tools**|  <img height='35px'  src="https://skillicons.dev/icons?i=docker,git,github,"/>| (adicionar insominia)
+|**Deploy**|  <img height='35px'  src="https://skillicons.dev/icons?i=heroku"/>| (adicionar o vercel, e o railway)
+|**Mockups**|  <img height='35px'  src="https://skillicons.dev/icons?i=figma"/>|

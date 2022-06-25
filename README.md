@@ -34,7 +34,7 @@ Voce pode me encontrar:
 |**Highlighter**| ![My Skills](https://skillicons.dev/icons?i=html,md)
 |
 
-<table>
+<table >
 <thead>
 	<tr>
 		<th>Header 1</th>
@@ -48,10 +48,10 @@ Voce pode me encontrar:
 		<td>Column 2</td>
 	</tr>
 	<tr>
-		<td>Custom Table Content</td>
+		<td text-align="center" >Custom Table Content</td>
 		<td>
       <p align="center">
-          <img height='40px' src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+          <img height='40px'  src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
       </p>
     </td>
 	</tr>

@@ -37,5 +37,5 @@ Voce pode me encontrar:
 |**Frameworks/Libraries**|  <img height='35px'  src="https://skillicons.dev/icons?i=react,redux,nodejs,express,flask,django,"/>|
 |**SQL/NOSQL**|  <img height='35px'  src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite"/>|
 |**Tools**|  <img height='35px'  src="https://skillicons.dev/icons?i=docker,git,github,"/>| (adicionar insominia)
-|**Deploy**|  <img height='35px'  src="https://skillicons.dev/icons?i=heroku"/>| (adicionar o vercel, e o railway)
+|**Deploy**|  <img height='35px'  src="https://skillicons.dev/icons?i=heroku"/> <img height='35px' src="./assets/railwaynew.svg"/>| (adicionar o vercel, e o railway)
 |**Mockups**|  <img height='35px'  src="https://skillicons.dev/icons?i=figma"/>|

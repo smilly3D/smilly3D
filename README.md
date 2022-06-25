@@ -31,8 +31,11 @@ Voce pode me encontrar:
 
 |     | Stacks |
 | --- | --- |
-|**Highlighter**| ![My Skills](https://skillicons.dev/icons?i=html,md)
+|**Highlighter**|  <img height='30px'  src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /> 
 |
+|**Highlighter**|  <img height='30px'  src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim"/> 
+|
+
 
 <table >
 <thead>

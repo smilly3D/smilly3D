@@ -29,13 +29,13 @@ Voce pode me encontrar:
 
 ## 🔧 Technologies & Tools
 
-|     | Stacks | Text|
+|     | Stacks | Description |
 | --- | --- | --- |
-|**Highlighter**|  <img height='35px' src="https://skillicons.dev/icons?i=html,md&theme=light"  alt="HTLM, Markdown"/>| HTML, Markdown
-|**Styles**|  <img height='35px'  src="https://skillicons.dev/icons?i=css,sass,tailwind,styledcomponents"/>|
-|**languages**|  <img height='35px'  src="https://skillicons.dev/icons?i=js,ts,python"/>|
-|**Frameworks/Libraries**|  <img height='35px'  src="https://skillicons.dev/icons?i=react,redux,nodejs,express,flask,django,"/>|
-|**SQL/NOSQL**|  <img height='35px'  src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite"/>|
-|**Tools**|  <img height='35px'  src="https://skillicons.dev/icons?i=docker,git,github,"/>| (adicionar insominia)
-|**Deploy**|  <img height='35px'  src="https://skillicons.dev/icons?i=heroku"/> <img height='35px' src="./assets/railwaynew.svg"/>| (adicionar o vercel, e o railway)
-|**Mockups**|  <img height='35px'  src="https://skillicons.dev/icons?i=figma"/>|
+|**Highlighter**|  <img height='35px' src="https://skillicons.dev/icons?i=html,md&theme=light"  alt="HTLM, Markdown"/>| HTML, Markdown |
+|**Styles**|  <img height='35px'  src="https://skillicons.dev/icons?i=css,sass,tailwind,styledcomponents"/>| Css, Sass, Tailwindcss, StyledComponents |
+|**languages**|  <img height='35px'  src="https://skillicons.dev/icons?i=js,ts,python"/>| JavaScript, TypeScript, Python |
+|**Frameworks/Libraries**|  <img height='35px'  src="https://skillicons.dev/icons?i=react,redux,nodejs,express,flask,django,"/>|React, Redux, nodeJs, Express, Flask, Django |
+|**SQL/NOSQL**|  <img height='35px'  src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite"/>| Postgres, MongoDb, Sqlite |
+|**Tools**|  <img height='35px'  src="https://skillicons.dev/icons?i=docker,git,github"/><img height='35px' src="./assets/insominia.svg"/>| Docker, Git, Github, Insomnia |
+|**Deploy**|  <img height='35px'  src="https://skillicons.dev/icons?i=heroku"/> <img height='35px' src="./assets/railwaynew.svg"/> <img height='35px' src="./assets/vercel.svg"/>| Heroku, Railway, Vercel|
+|**Mockups**|  <img height='35px'  src="https://skillicons.dev/icons?i=figma"/>| Figma |

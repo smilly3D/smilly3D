@@ -20,12 +20,15 @@ Voce pode me encontrar:
 <br>
 
  <div>
-  <a style="display: flex"  href="https://github.com/smilly3D">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smilly3D&count_private=true&show_icons=true&theme=dracula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smilly3D&layout=compact&theme=dracula" >
+  <a href="https://github.com/smilly3D">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smilly3D&count_private=true&show_icons=true&theme=dracula">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smilly3D&layout=compact&theme=dracula" >
+  </a>
 </div>
 
 
-
-
 ## 🔧 Technologies & Tools
+
+|     | Stacks |
+| --- | --- |
+|Highlighter| teste|

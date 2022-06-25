@@ -39,23 +39,21 @@ Voce pode me encontrar:
 	<tr>
 		<th>Header 1</th>
 		<th>Header 2</th>
-		<th>Header :</th>
+
 	</tr>
 </thead>
 <tbody>
 	<tr>
 		<td>Column 1</td>
 		<td>Column 2</td>
-		<td>Column 3</td>
 	</tr>
 	<tr>
 		<td>Custom Table Content</td>
-		<td><p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p></td>
-		<td>Column 5</td>
+		<td>
+      <p align="center">
+          <img height='40px' src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      </p>
+    </td>
 	</tr>
 </tbody>
 </table>
